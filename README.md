@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Jitinchigo
 - 👀 I’m interested in game development, web development and databases.
-- 🌱 I’m currently learning programming @ coderacademy.com.au
+- 🌱 I’ve completed my learning on programming @ coderacademy.com.au
 - 💞️ I’m looking to collaborate on indie games! I am a music composer, voice actor and sfx designer and editor!
 - 📫 How to reach me is through my email at joseph.tamayo@live.com
 
