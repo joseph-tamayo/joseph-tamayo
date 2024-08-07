@@ -5,7 +5,7 @@
 - 🌱 I’ve completed my learning on programming @ TAFENSW and coderacademy.com.au
 - 💞️ I’m looking to collaborate on indie games! I am a music composer, voice actor and sfx designer and editor!
 
-<H2>Skills</H2>
+## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
