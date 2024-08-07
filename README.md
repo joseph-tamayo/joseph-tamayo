@@ -1,6 +1,5 @@
-# Welcome to my profile!
+# Hi! I'm Joseph Tamayo
 
-- 👋 Hi, I’m @joseph-tamayo
 - 👀 I’m interested in game development, web development and databases.
 - 🌱 I’ve completed my learning on programming @ TAFENSW and coderacademy.com.au
 - 💞️ I’m looking to collaborate on indie games! I am a music composer, voice actor and sfx designer and editor!
