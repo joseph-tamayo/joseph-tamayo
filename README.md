@@ -8,6 +8,9 @@
 
 ## Skills
 
+![ClipWindowsGIF](https://github.com/user-attachments/assets/f7c8892e-1e4f-40e0-94ee-647cb7a77bc9)
+
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=inkscape&titles=true)
