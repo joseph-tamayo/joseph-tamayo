@@ -11,7 +11,7 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=inkscape&titles=true)
 
-![Skills]([https://www.image-line.com/press/presskitblog.php?category=High%20res%20images](https://downloads.image-line.com/Press/FLStudio20_MasterIcon.png))
+![My Skills]([https://www.image-line.com/press/presskitblog.php?category=High%20res%20images](https://downloads.image-line.com/Press/FLStudio20_MasterIcon.png))
 <!---
 joseph-tamayo/joseph-tamayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
