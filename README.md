@@ -1,19 +1,42 @@
-# Hi! I'm Joseph Tamayo
+# Hi!
+```csharp
+void Profile()
+{
+    Console.WriteLine("Hello World, I'm Joseph Tamayo")
+}
+```
 
-- 👀 I’m interested in game development, web development and databases.
-- 🌱 I’ve completed my learning on programming @ TAFENSW and coderacademy.com.au
-- 💞️ I’m looking to collaborate on indie games! I am a music composer, voice actor and sfx designer and editor!
+| Languages | 
+| --------- | 
+| <p align="center"> [![My Skills](https://skillicons.dev/icons?i=cs,mysql,html,css,js,py,ruby,cpp,md)](https://skillicons.dev) <br> AutoHotKey </p> |
 
-<i class="fa-solid fa-user"></i>
+| Development |
+| ---- |
+| <p align="center"> [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,raspberrypi,unity)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,arduino,visualbasic,ruby&titles=true) <br> SQL Server Management Studio</p>  | 
 
-## Skills
+| Software |
+| -------- |
+| <p align="center"> [![My Skills](https://skillicons.dev/icons?i=discord,github,gmail,mongodb)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=shopify,outlook,word,excel,powerpoint,steam&titles=true) <br> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ableton,inkscape,photoshop,sketchup&titles=true) [![My Skills](https://skillicons.dev/icons?i=sketchup,blender)](https://skillicons.dev) </p>  | 
 
-![ClipWindowsGIF](https://github.com/user-attachments/assets/f7c8892e-1e4f-40e0-94ee-647cb7a77bc9)
+### Extra Software
+| Drawing | Music | CAD |
+| ------- | ----- | --- |
+| <li> Inkscape <li> Photoshop <li> Paint.net <li> Macromedia Flash | <li>FL Studio <li>Avid Pro Tools <li>Ableton <li>Audactiy / Adobe Audition | <li> Google Sketchup <li> Solid Edge <li> QCAD <li> 123D/Fusion 360 | 
 
+## Relevant Experience to Programming/Development
+* Technical Document Generation
+* Prototyping (Electronics)
+* Reverse Engineering (Custom cables and source code)
+* Programming/Development (Feature add-on to existing firmware/configuration software)
+* Programming/Development in faster execution of keyboard stroke based production testing/programming
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Experience that I can bring to the table
+* Customer Service
+* Sales
+* Warehouse Logistics
+* Forklift Operator
+* Production Planning
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=inkscape&titles=true)
 
 
 <!---
