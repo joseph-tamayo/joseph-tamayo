@@ -1,4 +1,4 @@
-# Hi!
+# Greetings!
 ```csharp
 void Profile()
 {
