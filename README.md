@@ -23,14 +23,14 @@ void Profile()
 | ------- | ----- | --- |
 | <li> Inkscape <li> Photoshop <li> Paint.net <li> Macromedia Flash | <li>FL Studio <li>Avid Pro Tools <li>Ableton <li>Audactiy / Adobe Audition | <li> Google Sketchup <li> Solid Edge <li> QCAD <li> 123D/Fusion 360 | 
 
-## Relevant Experience to Programming/Development
+## Relevant Experience
 * Technical Document Generation
 * Prototyping (Electronics)
 * Reverse Engineering (Custom cables and source code)
 * Programming/Development (Feature add-on to existing firmware/configuration software)
 * Programming/Development in faster execution of keyboard stroke based production testing/programming
 
-## Experience that I can bring to the table
+## Experience that only value-add
 * Customer Service
 * Sales
 * Warehouse Logistics
