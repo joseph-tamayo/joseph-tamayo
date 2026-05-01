@@ -18,7 +18,7 @@ void Profile()
 | -------- |
 | <p align="center"> [![My Skills](https://skillicons.dev/icons?i=discord,github,gmail,mongodb)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=shopify,outlook,word,excel,powerpoint,steam&titles=true) <br> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ableton,inkscape,photoshop,sketchup&titles=true) [![My Skills](https://skillicons.dev/icons?i=sketchup,blender)](https://skillicons.dev) </p>  | 
 
-### Extra Software
+### Other Software
 | Drawing | Music | CAD |
 | ------- | ----- | --- |
 | <li> Inkscape <li> Photoshop <li> Paint.net <li> Macromedia Flash | <li>FL Studio <li>Avid Pro Tools <li>Ableton <li>Audactiy / Adobe Audition | <li> Google Sketchup <li> Solid Edge <li> QCAD <li> 123D/Fusion 360 | 
